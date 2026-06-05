@@ -12,7 +12,7 @@
 ---
 
 ### Sobre mí
-Soy un apasionado desarrollador de software venezolano, con 4 años de experiencia, enfocado en construir soluciones robustas y eficientes. Me especializo en el desarrollo de aplicaciones web y backend, siempre buscando aprender y aplicar las últimas tendencias tecnológicas.
+Soy un apasionado desarrollador de software venezolano, enfocado en construir soluciones robustas y eficientes. Me especializo en el desarrollo de aplicaciones web y backend, siempre buscando aprender y aplicar las últimas tendencias tecnológicas.
 
 ---
 
