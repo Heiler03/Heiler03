@@ -30,9 +30,9 @@ Soy un apasionado desarrollador de software venezolano, enfocado en construir so
 
 ### Conecta conmigo
 
-* **LinkedIn:** [Tu enlace a LinkedIn]
-* **Correo:** [Tu correo electrónico]
-* **Portafolio:** [Tu enlace a tu portafolio, si tienes uno]
+* **LinkedIn:** 
+* **Correo:** 
+* **Portafolio:** 
 
 ---
 
