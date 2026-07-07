@@ -6,7 +6,7 @@
 
   <h1>Hola 👋, soy Heiler Garay</h1>
   <h3>Desarrollador de Software Junior</h3>
-  <p>Técnico Superior Universitario en Informática | 22 años | Desarrollador venezolano</p>
+  <p>Técnico Superior Universitario en Informática | 23 años | Desarrollador venezolano</p>
 </div>
 
 ---
