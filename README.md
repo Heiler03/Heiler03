@@ -12,7 +12,7 @@
 ---
 
 ### Sobre mí
-Soy un apasionado desarrollador de software, enfocado en construir soluciones robustas y eficientes. Me especializo en el desarrollo de aplicaciones web y movil, siempre buscando aprender y aplicar las últimas tendencias tecnológicas.
+Soy un apasionado desarrollador de software, enfocado en construir soluciones robustas y eficientes. Orientado en el desarrollo de aplicaciones web y movil, siempre buscando aprender y aplicar las últimas tendencias tecnológicas.
 
 ---
 
