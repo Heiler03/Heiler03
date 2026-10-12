@@ -35,7 +35,7 @@ Soy un apasionado desarrollador de software, enfocado en construir soluciones ro
 
 ### Conecta conmigo
 
-* **LinkedIn:** 
+* 💼 **LinkedIn:** [linkedin.com/in/heilergaray-dev](https://www.linkedin.com/in/heilergaray-dev)
 * **Correo:** 
 * **Portafolio:** 
 
