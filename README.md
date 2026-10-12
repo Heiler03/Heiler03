@@ -6,7 +6,7 @@
 
   <h1>Hola 👋, soy Heiler Garay</h1>
   <h3>Desarrollador de Software Junior</h3>
-  <p>Técnico Superior Universitario en Informática | 23 años | React|React-Native|Redux-Toolkit|Typescript|</p>
+  <p>Técnico Superior Universitario en Informática | 23 años | React | React-Native | Redux-Toolkit | Typescript </p>
 </div>
 
 ---
